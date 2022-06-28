@@ -384,8 +384,8 @@ spam_test2<-spam.test %>% mutate(type = ifelse(type=='nonspam', 0, 1)) %>% mutat
 
 
 ##### 3.3.1 UNDER-BAGGING
-In this ensamble methods we have to specify : \
-1. the Ensemble size, i.e. number of weak learners in the ensemble model \
+In this ensamble methods we have to specify : 
+1. the Ensemble size, i.e. number of weak learners in the ensemble model 
 2. Alg that train the weak learners(minority class)
 
 ```r
