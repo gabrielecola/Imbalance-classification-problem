@@ -14,6 +14,6 @@ Finally, there is an application of all these methods to two dataset. The first 
 while the second one is about Spam and instead they are adopted all cost sensitive methods.
 
 <div>
-    <img align=top src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-    <img align=top src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+    <img align=top src="https://user-images.githubusercontent.com/103529789/176737827-9fbb47fe-101b-4efe-9df3-f24fead22bfb.png"/>
+    <img align=top src="https://user-images.githubusercontent.com/103529789/176737847-51056ba2-239e-42da-b247-07af10fdb88a.png"/>
 <div>
