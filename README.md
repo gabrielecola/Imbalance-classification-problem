@@ -21,7 +21,7 @@ while the second one is about Spam and instead they are adopted all cost sensiti
 
 
 
-
+<a href="Dissertation.pdf" class="image fit"><img src="Dissertation.pdf" alt=""></a>
 
 
 
