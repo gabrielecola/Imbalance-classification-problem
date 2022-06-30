@@ -16,4 +16,4 @@ while the second one is about Spam and instead they are adopted all cost sensiti
 
 
 
-Code/Churn_files/figure-html/unnamed-chunk-25-1.png
+/Code/Churn_files/figure-html/unnamed-chunk-25-1.png
