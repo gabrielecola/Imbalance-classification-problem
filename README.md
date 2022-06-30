@@ -16,4 +16,4 @@ while the second one is about Spam and instead they are adopted all cost sensiti
 
 
 
-/Code/Churn_files/figure-html/unnamed-chunk-25-1.png
+![unnamed-chunk-25-1](https://user-images.githubusercontent.com/103529789/176708648-d4b71343-600b-41da-bda5-fd093a1fb859.png)
