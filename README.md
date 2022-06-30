@@ -15,6 +15,8 @@ while the second one is about Spam and instead they are adopted all cost sensiti
 
 
 
-< img src="https://user-images.githubusercontent.com/103529789/176708648-d4b71343-600b-41da-bda5-fd093a1fb859.png" width= "80" >
+<img src="https://user-images.githubusercontent.com/103529789/176708648-d4b71343-600b-41da-bda5-fd093a1fb859.png" width= "80">
+
+#<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 
 ![unnamed-chunk-25-1](https://user-images.githubusercontent.com/103529789/176708648-d4b71343-600b-41da-bda5-fd093a1fb859.png)
