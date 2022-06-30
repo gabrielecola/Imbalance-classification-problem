@@ -13,7 +13,11 @@ Secondly it analyze the Cost sensitive solutions, that are characterized by modi
 Finally, there is an application of all these methods to two dataset. The first dataset is about Churn and they are adopted all the pre-processing methods,
 while the second one is about Spam and instead they are adopted all cost sensitive methods.
 
-<div>
-    <img align="left" src="https://user-images.githubusercontent.com/103529789/176737827-9fbb47fe-101b-4efe-9df3-f24fead22bfb.png" width='500'>
-    <img align='center' src="https://user-images.githubusercontent.com/103529789/176737847-51056ba2-239e-42da-b247-07af10fdb88a.png" width = '500'>
-<div>
+<p align="center" width="1000%">
+    <img width="500%" src="https://user-images.githubusercontent.com/103529789/176737827-9fbb47fe-101b-4efe-9df3-f24fead22bfb.png">
+    <img width="500%" src="https://user-images.githubusercontent.com/103529789/176737847-51056ba2-239e-42da-b247-07af10fdb88a.png">
+</p>
+
+
+
+
