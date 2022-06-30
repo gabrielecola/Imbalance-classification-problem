@@ -1,7 +1,6 @@
 # The Imbalance problem in Classification
 
 Final dissertation for the BSc in Statistics at Università degli Studi di Napoli Federico II.
-<a href="Dissertation.pdf" class="image fit"><img src="Dissertation.pdf" alt=""></a>
 
 ### Abstract
 
@@ -21,6 +20,5 @@ while the second one is about Spam and instead they are adopted all cost sensiti
 </p>
 
 
-<a href="/Dissertation.pdf" class="image fit"><img src="Dissertation.pdf" alt=""></a>
 
 
