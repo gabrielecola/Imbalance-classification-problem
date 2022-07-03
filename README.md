@@ -1,4 +1,4 @@
-# The Imbalance problem in Classification
+# The Imbalance Problem in Classification
 
 Final dissertation for the BSc in Statistics at Università degli Studi di Napoli Federico II.
 
