@@ -16,9 +16,7 @@ while the second one is about Spam and instead they are adopted all cost sensiti
 
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/103529789/177018189-bf17e7f4-0f37-4652-8a27-9d6fc32f9b4f.png" width="400"/>
-  <img src="https://user-images.githubusercontent.com/103529789/177018192-869df8dc-8004-448d-9f1f-3c9be37fae7a.png" width="400" /> 
+  <img src="https://user-images.githubusercontent.com/103529789/185748328-c458b20e-7ba0-4381-a304-80ba40898faa.jpeg" width="400"/>
+  <img src="https://user-images.githubusercontent.com/103529789/185748409-f9f23d66-46dc-4a36-bc13-e7f199ef0dce.png" width="400"/> 
 </p>
-
-
 
