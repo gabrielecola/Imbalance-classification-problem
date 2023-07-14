@@ -1,0 +1,45 @@
+\chapter{Case studies of Imbalanceness}
+
+\section{Description of Dataset}
+The Dataset adopted for showing the Imbalanceness were : \noindent \\
+1.Customers Churn \noindent \\
+2.Spam \noindent \\
+
+This Datasets were commonly used in the Imbalance Classification problem because they often show a minority class, which is almost always the 'yes' class~\cite{zhu2019iric}.  
+
+
+
+\section{Churn Analysis}
+Churn dataset contains 19 variables, which explain the features of customers.
+ All data-level methods are applied in this dataset, namely all pre-processing methods that after they will be combined with SVM classifier in order to predict if a customer will leave the phone company or not.\noindent \\
+
+\begin{center}
+\includegraphics[width=1.1\textwidth]{Tesi_GabrieleCola/img/churn.pdf}
+\end{center}
+
+The highest accuracy is obtained  when the classifier is combined with OSS method, while Adasyn resulted as the worst method.
+Furthermore, Under-sampling methods work better than Oversampling and Hybrid methods. \noindent \\
+
+\section{Spam Detection}
+Spam Dataset contains 58 variables,which explain the features of email. \noindent \\
+The first 48 variables contain the frequency of the variable name in the e-mail. \noindent \\
+The variables 49-54 indicate the frequency of the characters.\noindent \\
+The variables 55-57 contain the average, longest and total run-length of capital letters.\noindent \\
+ the variable 58 indicates the type of the mail and is either "nonspam" or "spam".\noindent \\
+
+In this dataset, differently from Churn dataset, are applied all cost-sensitive algorithms, so there isn't a pre-processing of data but only modified algorithm, that will be used to predict if an email
+will go to spam box or not.\noindent \\
+
+\begin{center}
+\includegraphics[width=1.1\textwidth]{Tesi_GabrieleCola/img/spam.pdf}
+\end{center}
+
+The classifier that has the highest accuracy is Smote-Boosting, while Cost-Sensitive Decision Tree resulted as the worst method.
+Furthermore, in this case we can't affirm that a kind of method works better than others.
+
+
+    
+    
+
+
+

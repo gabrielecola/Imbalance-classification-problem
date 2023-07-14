@@ -1,0 +1,93 @@
+\documentclass[a4paper, 12pt, oneside]{extbook}
+\usepackage[T1]{fontenc}
+\usepackage[utf8x]{inputenc}
+\usepackage{geometry}
+\usepackage{courier}
+\usepackage[bookmarks]{hyperref}
+\newgeometry{
+left=   1.5 in,
+bottom= 1.5 in,
+right=  1 in,
+top=    1 in
+}
+
+\usepackage{fancyhdr}
+
+% Grafica
+\usepackage{graphicx,pstricks}
+\usepackage{graphics}
+\graphicspath{{img/}}
+
+% Package usati per il frontespizio
+\usepackage{tikz}
+\usepackage{pgf-pie}
+\usepackage{pgfplots}
+\pgfplotsset{width=7cm,compat=1.8}
+\usetikzlibrary{patterns}
+
+
+%Algorithm
+\usepackage{algorithm}
+\usepackage[noend]{algpseudocode}
+
+\setlength\headheight{44.2pt}
+%Page Style
+\usepackage{setspace}
+%\setstretch{2.5} 
+\doublespace
+
+%\cfoot{\thepage}
+\lhead[]{}
+\rhead[]{\leftmark}
+
+\pagestyle{fancy}{
+\lhead{\includegraphics[scale=0.3]{Tesi_GabrieleCola/img/logo/logo_copertina_1.png}}
+\rhead{\footnotesize{The Imbalance Problem in Classification}}
+}
+
+%Other
+\usepackage{comment}
+\usepackage{amsmath}
+\usepackage{xcolor}
+\hypersetup{
+    colorlinks,
+    linkcolor={black},
+    citecolor={black},
+    urlcolor={black}
+}
+
+%Testo riempitivo
+\usepackage{lipsum}
+
+\usepackage{indentfirst}
+
+
+\begin{document}
+
+%\maketitle
+\input{0_frontespizio.tex}
+\frontmatter
+
+\input{dedica.tex}
+
+% \input{abstract.tex}
+
+{\setstretch{1.5}
+\tableofcontents
+}
+
+\mainmatter
+
+
+\include{Tesi_GabrieleCola/chapter1_full}
+% \include{chapter2}
+% \include{chapter3}
+
+%\include{Tesi_GabrieleCola/full_report}
+
+ \include{conclusion}
+
+\bibliography{bibliography}
+\bibliographystyle{unsrt}
+
+\end{document}
