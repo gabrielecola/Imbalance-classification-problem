@@ -5,9 +5,9 @@ Final dissertation for the BSc in Statistics at Università degli Studi di Napol
 ### Abstract
 
 The document proposes several approaches to deal with Class Imbalance. Firstly it analyze the pros and cons of the Pre-processing methods, that  they can be divided in: \
-• Undersampling methods \
-• Oversampling methods \
-• Hybrid methods 
+• **Undersampling methods** \
+• **Oversampling methods** \
+• **Hybrid methods** 
 
 Secondly it analyze the Cost sensitive solutions, that are characterized by modifying existing algorithm (i.e Decision Tree, SVM, Ensemble Methods) in order to change the weights of each class. 
 
